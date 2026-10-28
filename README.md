@@ -47,4 +47,15 @@ graph TD
     PAR --> K1["Ulug'bek (akam)"]
     PAR --> K2["Mubina (men)"]
     PAR --> K3["Sherozbek (ukam)"]
+
+    %% ===== RANGLAR =====
+    classDef ota fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
+    classDef ona fill:#dcfce7,stroke:#16a34a,color:#14532d
+    classDef biz fill:#fef3c7,stroke:#d97706,color:#78350f,stroke-width:2px
+    classDef men fill:#fbcfe8,stroke:#db2777,color:#831843,stroke-width:3px
+
+    class PB,DAD,A1,A2,A1a,A1b,A1c,A1a1,A2a,A2b,A2c ota
+    class MB,MOM,X1,X2,X3,X4,X1a,X1b,X1c,X1b1,X1b2,X2a,X2b,X2a1,X3a,X3b,X4a,X4b ona
+    class PAR,K1,K3 biz
+    class K2 men
 ```
