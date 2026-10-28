@@ -2,12 +2,12 @@
 
 ```mermaid
 graph TD
-    A["Bobo (Karim)"] --- B["Buvi (Salima)"]
-    A --> C["Ota (Aziz)"]
+    A["Bobo (Shermuhammad)"] --- B["Buvi (Muhabbatxon)"]
+    A --> C[Dadam (Sherzodbek)"]
     B --> C
-    C --- D["Ona (Dilnoza)"]
-    C --> E["Men"]
+    C --- D["Onam (Ibodatxon)"]
+    C --> E["Men (Mubina)"]
     D --> E
-    C --> F["Akam (Jasur)"]
+    C --> F["Akam (Ulug`bek)"]
     D --> F
 ```
