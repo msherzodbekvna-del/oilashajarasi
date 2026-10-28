@@ -5,12 +5,13 @@ graph TD
     %% ===== OTA TOMON =====
     PB["Shermuhammad & Muhabbatxon"]
     PB --> DAD["Sherzodbek"]
-    PB --> A1["Dilnoza & Bozorboy"]
-    PB --> A2["Gulbahor & Sirojiddin"]
+    PB --> A1["Dilnoza (amma) & Bozorboy"]
+    PB --> A2["Gulbahor (amma) & Sirojiddin"]
 
-    A1 --> A1a["Boburjon"]
-    A1 --> A1b["Farxodjon"]
-    A1 --> A1c["Odina"]
+    A1 --> A1a["Boburjon & Muharramoy"]
+    A1 --> A1b["Farxodjon & Sabina"]
+    A1 --> A1c["Odina & Saidkamol"]
+    A1a --> A1a1["MuhammadAli"]
 
     A2 --> A2a["Muhammadaziz"]
     A2 --> A2b["Muhammadsodiq"]
@@ -19,17 +20,20 @@ graph TD
     %% ===== ONA TOMON =====
     MB["Dilshodbek & Inobatxon"]
     MB --> MOM["Ibodatxon"]
-    MB --> X1["Dilafruz & Azamat"]
-    MB --> X2["Dilnoza & Nuriddin"]
-    MB --> X3["Dildora & Inomjon"]
-    MB --> X4["Dilorom & Oybek"]
+    MB --> X1["Dilafruz (xola) & Azamat"]
+    MB --> X2["Dilnoza (xola) & Nuriddin"]
+    MB --> X3["Dildora (xola) & Inomjon"]
+    MB --> X4["Dilorom (xola) & Oybek"]
 
     X1 --> X1a["Sardor"]
-    X1 --> X1b["Diyora"]
+    X1 --> X1b["Diyora & Muhriddin"]
     X1 --> X1c["Oyatillo"]
+    X1b --> X1b1["Sadiya"]
+    X1b --> X1b2["Sumayya"]
 
-    X2 --> X2a["Nigora"]
+    X2 --> X2a["Nigora & Shohjahon"]
     X2 --> X2b["Nurmuhammad"]
+    X2a --> X2a1["MuhammadYasin"]
 
     X3 --> X3a["Iqboljon"]
     X3 --> X3b["Fotimaxon"]
